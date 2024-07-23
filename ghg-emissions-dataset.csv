@@ -1,0 +1,961 @@
+shortName,countryName,year,CO2,F-Gas,N2O,CH4,sector
+CHN,China,2021,843.8,298.12,131.94,0,IndustrialProcesses
+CHN,China,2020,850,274.98,127.52,0,IndustrialProcesses
+CHN,China,2019,820,269.67,123.72,0,IndustrialProcesses
+CHN,China,2018,765.8,264.36,119.93,0,IndustrialProcesses
+CHN,China,2017,753.4,259.05,116.14,0,IndustrialProcesses
+CHN,China,2016,740.8,253.74,112.34,0,IndustrialProcesses
+CHN,China,2015,718.6,248.43,108.55,0,IndustrialProcesses
+CHN,China,2014,770.3,236.14,97.7,0,IndustrialProcesses
+CHN,China,2013,748.3,223.84,86.84,0,IndustrialProcesses
+CHN,China,2012,714.8,211.54,75.99,0,IndustrialProcesses
+CHN,China,2011,708.6,197.1,69.66,0,IndustrialProcesses
+CHN,China,2010,639.6,182.65,63.33,0,IndustrialProcesses
+CHN,China,2009,583.6,168.04,57,0,IndustrialProcesses
+CHN,China,2008,525.9,153.43,50.67,0,IndustrialProcesses
+CHN,China,2007,515,138.82,44.34,0,IndustrialProcesses
+CHN,China,2006,470.1,124.21,38.01,0,IndustrialProcesses
+CHN,China,2005,411.6,109.6,31.68,0,IndustrialProcesses
+CHN,China,2004,368.4,95.21,29.2,0,IndustrialProcesses
+CHN,China,2003,353.7,80.82,26.73,0,IndustrialProcesses
+CHN,China,2002,282.7,66.44,24.26,0,IndustrialProcesses
+CHN,China,2001,270.8,52.05,21.78,0,IndustrialProcesses
+CHN,China,2000,244.4,37.66,19.31,0,IndustrialProcesses
+CHN,China,1999,228.3,32.64,16.84,0,IndustrialProcesses
+CHN,China,1998,211.4,27.62,14.36,0,IndustrialProcesses
+CHN,China,1997,202.9,22.61,11.89,0,IndustrialProcesses
+CHN,China,1996,192.9,17.59,9.42,0,IndustrialProcesses
+CHN,China,1995,184.6,12.57,6.94,0,IndustrialProcesses
+CHN,China,1994,164.4,11.21,4.47,0,IndustrialProcesses
+CHN,China,1993,142.8,9.84,4.37,0,IndustrialProcesses
+CHN,China,1992,122.4,8.48,4.27,0,IndustrialProcesses
+CHN,China,1991,101.3,7.12,4.17,0,IndustrialProcesses
+CHN,China,1990,84.51,5.76,4.08,0,IndustrialProcesses
+CHN,China,2021,0,0,30.17,186.06,Waste
+CHN,China,2020,0,0,30.12,179.38,Waste
+CHN,China,2019,0,0,30,173.53,Waste
+CHN,China,2018,0,0,29.89,167.69,Waste
+CHN,China,2017,0,0,29.77,161.84,Waste
+CHN,China,2016,0,0,29.66,155.99,Waste
+CHN,China,2015,0,0,29.54,150.14,Waste
+CHN,China,2014,0,0,29.33,145.29,Waste
+CHN,China,2013,0,0,29.12,140.43,Waste
+CHN,China,2012,0,0,28.91,135.58,Waste
+CHN,China,2011,0,0,28.61,129.85,Waste
+CHN,China,2010,0,0,28.31,124.13,Waste
+CHN,China,2009,0,0,28.01,118.4,Waste
+CHN,China,2008,0,0,27.71,112.68,Waste
+CHN,China,2007,0,0,27.42,106.95,Waste
+CHN,China,2006,0,0,27.12,101.23,Waste
+CHN,China,2005,0,0,26.82,95.5,Waste
+CHN,China,2004,0,0,26.43,104.36,Waste
+CHN,China,2003,0,0,26.04,113.23,Waste
+CHN,China,2002,0,0,25.65,122.09,Waste
+CHN,China,2001,0,0,25.26,130.95,Waste
+CHN,China,2000,0,0,24.87,139.82,Waste
+CHN,China,1999,0,0,24.18,148.68,Waste
+CHN,China,1998,0,0,23.49,157.55,Waste
+CHN,China,1997,0,0,22.8,166.41,Waste
+CHN,China,1996,0,0,22.1,175.27,Waste
+CHN,China,1995,0,0,21.41,184.14,Waste
+CHN,China,1994,0,0,20.71,193,Waste
+CHN,China,1993,0,0,20.02,188.95,Waste
+CHN,China,1992,0,0,19.32,184.89,Waste
+CHN,China,1991,0,0,18.62,180.84,Waste
+CHN,China,1990,0,0,17.93,176.78,Waste
+CHN,China,2021,0,0,300.25,334.15,Agriculture
+CHN,China,2020,0,0,301.59,330.96,Agriculture
+CHN,China,2019,0,0,303.01,324.49,Agriculture
+CHN,China,2018,0,0,339.8,334.42,Agriculture
+CHN,China,2017,0,0,348.84,335.87,Agriculture
+CHN,China,2016,0,0,356.52,342.19,Agriculture
+CHN,China,2015,0,0,358,341.38,Agriculture
+CHN,China,2014,0,0,354.15,337.91,Agriculture
+CHN,China,2013,0,0,353.51,337.58,Agriculture
+CHN,China,2012,0,0,352.89,338.53,Agriculture
+CHN,China,2011,0,0,348.88,341.02,Agriculture
+CHN,China,2010,0,0,349.59,346.04,Agriculture
+CHN,China,2009,0,0,346.46,348.43,Agriculture
+CHN,China,2008,0,0,343.04,350.45,Agriculture
+CHN,China,2007,0,0,335.38,345.7,Agriculture
+CHN,China,2006,0,0,334.82,354.8,Agriculture
+CHN,China,2005,0,0,331.1,356.42,Agriculture
+CHN,China,2004,0,0,326.4,353.35,Agriculture
+CHN,China,2003,0,0,316.77,344.47,Agriculture
+CHN,China,2002,0,0,318.41,353.35,Agriculture
+CHN,China,2001,0,0,303.73,362.54,Agriculture
+CHN,China,2000,0,0,304.42,372.89,Agriculture
+CHN,China,1999,0,0,315.4,373.88,Agriculture
+CHN,China,1998,0,0,302.43,366.92,Agriculture
+CHN,China,1997,0,0,296.93,349.74,Agriculture
+CHN,China,1996,0,0,328.11,386.77,Agriculture
+CHN,China,1995,0,0,305.82,366.25,Agriculture
+CHN,China,1994,0,0,266.55,346.35,Agriculture
+CHN,China,1993,0,0,254.12,338.74,Agriculture
+CHN,China,1992,0,0,264.26,341.31,Agriculture
+CHN,China,1991,0,0,259.81,341.19,Agriculture
+CHN,China,1990,0,0,253.73,336.93,Agriculture
+BRA,Brazil,2021,24.49,11.39,0.45,0.23,IndustrialProcesses
+BRA,Brazil,2020,23.37,10.25,0.43,0.23,IndustrialProcesses
+BRA,Brazil,2019,21.05,9.85,0.41,0.23,IndustrialProcesses
+BRA,Brazil,2018,20.49,9.44,0.4,0.23,IndustrialProcesses
+BRA,Brazil,2017,20.22,9.03,0.38,0.23,IndustrialProcesses
+BRA,Brazil,2016,22.42,8.63,0.37,0.23,IndustrialProcesses
+BRA,Brazil,2015,25.08,8.22,0.35,0.23,IndustrialProcesses
+BRA,Brazil,2014,26.91,8.18,0.34,0.23,IndustrialProcesses
+BRA,Brazil,2013,26.65,8.13,0.32,0.23,IndustrialProcesses
+BRA,Brazil,2012,25,8.09,0.31,0.23,IndustrialProcesses
+BRA,Brazil,2011,22.84,8.04,0.29,0.23,IndustrialProcesses
+BRA,Brazil,2010,21.29,8,0.28,0.23,IndustrialProcesses
+BRA,Brazil,2009,19.03,7.32,0.3,0.23,IndustrialProcesses
+BRA,Brazil,2008,18.88,7.14,0.68,0.23,IndustrialProcesses
+BRA,Brazil,2007,17.2,6.41,0.88,0.23,IndustrialProcesses
+BRA,Brazil,2006,15.44,5.62,7.38,0.23,IndustrialProcesses
+BRA,Brazil,2005,14.35,4.85,6.8,0.23,IndustrialProcesses
+BRA,Brazil,2004,13.27,4.44,7.75,0.23,IndustrialProcesses
+BRA,Brazil,2003,13.1,4.13,5.55,0.23,IndustrialProcesses
+BRA,Brazil,2002,14.39,3.71,6.05,0.2,IndustrialProcesses
+BRA,Brazil,2001,15.23,3.14,4.84,0.2,IndustrialProcesses
+BRA,Brazil,2000,16.05,3.04,5.94,0.23,IndustrialProcesses
+BRA,Brazil,1999,16.44,4.3,5.66,0.2,IndustrialProcesses
+BRA,Brazil,1998,16.18,3.25,5.68,0.2,IndustrialProcesses
+BRA,Brazil,1997,15.27,3.83,3.61,0.18,IndustrialProcesses
+BRA,Brazil,1996,13.88,4.15,4.06,0.15,IndustrialProcesses
+BRA,Brazil,1995,11.53,4.71,5.2,0.15,IndustrialProcesses
+BRA,Brazil,1994,10.09,4.8,4.86,0.18,IndustrialProcesses
+BRA,Brazil,1993,10.16,5.01,4.81,0.15,IndustrialProcesses
+BRA,Brazil,1992,9.77,4.93,3.74,0.13,IndustrialProcesses
+BRA,Brazil,1991,11.78,4.38,4.01,0.13,IndustrialProcesses
+BRA,Brazil,1990,11.06,3.87,3.19,0.13,IndustrialProcesses
+BRA,Brazil,2021,0,0,2.4,69.83,Waste
+BRA,Brazil,2020,0,0,2.39,69.17,Waste
+BRA,Brazil,2019,0,0,2.37,68.52,Waste
+BRA,Brazil,2018,0,0,2.35,67.87,Waste
+BRA,Brazil,2017,0,0,2.33,67.22,Waste
+BRA,Brazil,2016,0,0,2.32,66.57,Waste
+BRA,Brazil,2015,0,0,2.3,65.92,Waste
+BRA,Brazil,2014,0,0,2.27,65.05,Waste
+BRA,Brazil,2013,0,0,2.24,64.18,Waste
+BRA,Brazil,2012,0,0,2.21,63.31,Waste
+BRA,Brazil,2011,0,0,2.18,62.44,Waste
+BRA,Brazil,2010,0,0,2.15,61.57,Waste
+BRA,Brazil,2009,0,0,2.11,58.4,Waste
+BRA,Brazil,2008,0,0,2.07,56.94,Waste
+BRA,Brazil,2007,0,0,2.04,56.04,Waste
+BRA,Brazil,2006,0,0,2,54.47,Waste
+BRA,Brazil,2005,0,0,1.97,51.55,Waste
+BRA,Brazil,2004,0,0,1.93,50.46,Waste
+BRA,Brazil,2003,0,0,1.9,50.06,Waste
+BRA,Brazil,2002,0,0,1.81,47.18,Waste
+BRA,Brazil,2001,0,0,1.73,44.99,Waste
+BRA,Brazil,2000,0,0,1.69,43.86,Waste
+BRA,Brazil,1999,0,0,1.65,42.1,Waste
+BRA,Brazil,1998,0,0,1.59,39.68,Waste
+BRA,Brazil,1997,0,0,1.53,38.25,Waste
+BRA,Brazil,1996,0,0,1.47,36.77,Waste
+BRA,Brazil,1995,0,0,1.44,35.47,Waste
+BRA,Brazil,1994,0,0,1.41,34.03,Waste
+BRA,Brazil,1993,0,0,1.38,32.86,Waste
+BRA,Brazil,1992,0,0,1.35,31.76,Waste
+BRA,Brazil,1991,0,0,1.32,30.5,Waste
+BRA,Brazil,1990,0,0,1.29,29.34,Waste
+BRA,Brazil,2021,0,0,185.3,348.17,Agriculture
+BRA,Brazil,2020,0,0,178.31,340.35,Agriculture
+BRA,Brazil,2019,0,0,169.44,335.42,Agriculture
+BRA,Brazil,2018,0,0,162.63,330.36,Agriculture
+BRA,Brazil,2017,0,0,167.08,335.91,Agriculture
+BRA,Brazil,2016,0,0,158.58,339.7,Agriculture
+BRA,Brazil,2015,0,0,158.84,337.75,Agriculture
+BRA,Brazil,2014,0,0,161.52,333.26,Agriculture
+BRA,Brazil,2013,0,0,155.18,330.2,Agriculture
+BRA,Brazil,2012,0,0,154.96,334.09,Agriculture
+BRA,Brazil,2011,0,0,154.45,333.81,Agriculture
+BRA,Brazil,2010,0,0,155.02,335.5,Agriculture
+BRA,Brazil,2009,0,0,138.72,320.95,Agriculture
+BRA,Brazil,2008,0,0,142,318.26,Agriculture
+BRA,Brazil,2007,0,0,148.42,320.84,Agriculture
+BRA,Brazil,2006,0,0,137.04,322.01,Agriculture
+BRA,Brazil,2005,0,0,139.65,328.13,Agriculture
+BRA,Brazil,2004,0,0,140.08,323.06,Agriculture
+BRA,Brazil,2003,0,0,132.2,307.67,Agriculture
+BRA,Brazil,2002,0,0,126.52,295.14,Agriculture
+BRA,Brazil,2001,0,0,117.73,279.83,Agriculture
+BRA,Brazil,2000,0,0,111.06,268.59,Agriculture
+BRA,Brazil,1999,0,0,111.32,263.87,Agriculture
+BRA,Brazil,1998,0,0,111.06,262.05,Agriculture
+BRA,Brazil,1997,0,0,106.02,256.38,Agriculture
+BRA,Brazil,1996,0,0,102.59,251.71,Agriculture
+BRA,Brazil,1995,0,0,108.61,263.92,Agriculture
+BRA,Brazil,1994,0,0,107.21,259.28,Agriculture
+BRA,Brazil,1993,0,0,104.07,254.41,Agriculture
+BRA,Brazil,1992,0,0,102.45,254.29,Agriculture
+BRA,Brazil,1991,0,0,100.6,250.09,Agriculture
+BRA,Brazil,1990,0,0,97.66,241.96,Agriculture
+EUU,European Union (27),2021,72.42,66.02,7.29,1.5,IndustrialProcesses
+EUU,European Union (27),2020,70.41,71.49,7.21,1.5,IndustrialProcesses
+EUU,European Union (27),2019,73.56,78.35,7.14,1.5,IndustrialProcesses
+EUU,European Union (27),2018,73.61,85.2,7.07,1.5,IndustrialProcesses
+EUU,European Union (27),2017,72.3,92.05,7.01,1.5,IndustrialProcesses
+EUU,European Union (27),2016,70.15,98.91,6.94,1.5,IndustrialProcesses
+EUU,European Union (27),2015,70.18,98.3,7.45,1.48,IndustrialProcesses
+EUU,European Union (27),2014,70.79,102.71,7.79,1.5,IndustrialProcesses
+EUU,European Union (27),2013,67.61,99.95,8.35,1.43,IndustrialProcesses
+EUU,European Union (27),2012,71.33,97.36,10.42,1.47,IndustrialProcesses
+EUU,European Union (27),2011,75.69,95.16,11.82,1.51,IndustrialProcesses
+EUU,European Union (27),2010,76.96,91.76,15.63,1.57,IndustrialProcesses
+EUU,European Union (27),2009,78.54,87.21,26.65,1.44,IndustrialProcesses
+EUU,European Union (27),2008,96.07,88.33,34.63,1.67,IndustrialProcesses
+EUU,European Union (27),2007,103.24,84.82,44.62,1.83,IndustrialProcesses
+EUU,European Union (27),2006,98.79,78.61,44.98,1.84,IndustrialProcesses
+EUU,European Union (27),2005,96.01,72,53.31,1.83,IndustrialProcesses
+EUU,European Union (27),2004,95.55,68.01,54.95,1.75,IndustrialProcesses
+EUU,European Union (27),2003,91.36,64.75,54.45,1.76,IndustrialProcesses
+EUU,European Union (27),2002,90.13,62.52,53.97,1.64,IndustrialProcesses
+EUU,European Union (27),2001,91.02,57.52,58.68,1.64,IndustrialProcesses
+EUU,European Union (27),2000,93.3,60.24,57.93,1.66,IndustrialProcesses
+EUU,European Union (27),1999,92.02,60.01,56.29,1.59,IndustrialProcesses
+EUU,European Union (27),1998,90.64,60.96,66.01,1.55,IndustrialProcesses
+EUU,European Union (27),1997,88.77,57.35,87.78,1.54,IndustrialProcesses
+EUU,European Union (27),1996,86.82,53.36,92.4,1.48,IndustrialProcesses
+EUU,European Union (27),1995,89.91,48.13,88.83,1.57,IndustrialProcesses
+EUU,European Union (27),1994,86.49,44.19,88.31,1.56,IndustrialProcesses
+EUU,European Union (27),1993,81.21,41.02,84.41,1.46,IndustrialProcesses
+EUU,European Union (27),1992,86.54,37.3,85.26,1.42,IndustrialProcesses
+EUU,European Union (27),1991,81.5,37.26,83.44,1.41,IndustrialProcesses
+EUU,European Union (27),1990,87.24,39.69,88.49,1.47,IndustrialProcesses
+EUU,European Union (27),2021,0,0,7.52,97.64,Waste
+EUU,European Union (27),2020,0,0,7.53,98.43,Waste
+EUU,European Union (27),2019,0,0,7.53,99.8,Waste
+EUU,European Union (27),2018,0,0,7.53,101.17,Waste
+EUU,European Union (27),2017,0,0,7.54,102.54,Waste
+EUU,European Union (27),2016,0,0,7.54,103.91,Waste
+EUU,European Union (27),2015,0,0,7.53,107.56,Waste
+EUU,European Union (27),2014,0,0,7.51,109.41,Waste
+EUU,European Union (27),2013,0,0,7.55,112.9,Waste
+EUU,European Union (27),2012,0,0,7.53,116.58,Waste
+EUU,European Union (27),2011,0,0,7.6,119.37,Waste
+EUU,European Union (27),2010,0,0,7.62,122.51,Waste
+EUU,European Union (27),2009,0,0,7.53,125.45,Waste
+EUU,European Union (27),2008,0,0,7.53,127.31,Waste
+EUU,European Union (27),2007,0,0,7.5,131.26,Waste
+EUU,European Union (27),2006,0,0,7.51,134.82,Waste
+EUU,European Union (27),2005,0,0,7.48,137.97,Waste
+EUU,European Union (27),2004,0,0,7.42,142.91,Waste
+EUU,European Union (27),2003,0,0,7.66,146.85,Waste
+EUU,European Union (27),2002,0,0,7.67,149.29,Waste
+EUU,European Union (27),2001,0,0,7.47,152.08,Waste
+EUU,European Union (27),2000,0,0,7.5,154.24,Waste
+EUU,European Union (27),1999,0,0,7.47,155.32,Waste
+EUU,European Union (27),1998,0,0,7.44,157.85,Waste
+EUU,European Union (27),1997,0,0,7.33,160.04,Waste
+EUU,European Union (27),1996,0,0,7.45,162.1,Waste
+EUU,European Union (27),1995,0,0,7.5,163.09,Waste
+EUU,European Union (27),1994,0,0,7.54,162.95,Waste
+EUU,European Union (27),1993,0,0,7.59,163.56,Waste
+EUU,European Union (27),1992,0,0,7.7,162.74,Waste
+EUU,European Union (27),1991,0,0,7.86,160.63,Waste
+EUU,European Union (27),1990,0,0,8.01,157.15,Waste
+EUU,European Union (27),2021,0,0,176.83,208.48,Agriculture
+EUU,European Union (27),2020,0,0,179.84,211.47,Agriculture
+EUU,European Union (27),2019,0,0,181.4,212.72,Agriculture
+EUU,European Union (27),2018,0,0,181.05,214.38,Agriculture
+EUU,European Union (27),2017,0,0,186.5,218.47,Agriculture
+EUU,European Union (27),2016,0,0,184.97,219.5,Agriculture
+EUU,European Union (27),2015,0,0,185.92,219.28,Agriculture
+EUU,European Union (27),2014,0,0,184.27,217.55,Agriculture
+EUU,European Union (27),2013,0,0,181.54,215.76,Agriculture
+EUU,European Union (27),2012,0,0,178.26,216.08,Agriculture
+EUU,European Union (27),2011,0,0,177.64,216.86,Agriculture
+EUU,European Union (27),2010,0,0,179.81,221.51,Agriculture
+EUU,European Union (27),2009,0,0,176.9,223.69,Agriculture
+EUU,European Union (27),2008,0,0,182.29,225.36,Agriculture
+EUU,European Union (27),2007,0,0,185.75,226.39,Agriculture
+EUU,European Union (27),2006,0,0,181.5,225.27,Agriculture
+EUU,European Union (27),2005,0,0,183.38,227.12,Agriculture
+EUU,European Union (27),2004,0,0,188.36,229.54,Agriculture
+EUU,European Union (27),2003,0,0,187.08,231.66,Agriculture
+EUU,European Union (27),2002,0,0,187.61,235.39,Agriculture
+EUU,European Union (27),2001,0,0,188.65,238.09,Agriculture
+EUU,European Union (27),2000,0,0,190.31,243.01,Agriculture
+EUU,European Union (27),1999,0,0,194.15,243.98,Agriculture
+EUU,European Union (27),1998,0,0,195.07,245.94,Agriculture
+EUU,European Union (27),1997,0,0,195.55,249.94,Agriculture
+EUU,European Union (27),1996,0,0,195.88,251.07,Agriculture
+EUU,European Union (27),1995,0,0,191.44,252.25,Agriculture
+EUU,European Union (27),1994,0,0,193.86,257.03,Agriculture
+EUU,European Union (27),1993,0,0,193.82,262.55,Agriculture
+EUU,European Union (27),1992,0,0,196.12,275.16,Agriculture
+EUU,European Union (27),1991,0,0,207.65,287.99,Agriculture
+EUU,European Union (27),1990,0,0,221.12,300.15,Agriculture
+IDN,Indonesia,2021,27.26,4.03,0.44,2.61,IndustrialProcesses
+IDN,Indonesia,2020,26.3,3.7,0.43,2.61,IndustrialProcesses
+IDN,Indonesia,2019,30.16,3.49,0.43,2.61,IndustrialProcesses
+IDN,Indonesia,2018,30.83,3.27,0.42,2.61,IndustrialProcesses
+IDN,Indonesia,2017,28.97,3.06,0.42,2.61,IndustrialProcesses
+IDN,Indonesia,2016,28.71,2.84,0.41,2.61,IndustrialProcesses
+IDN,Indonesia,2015,24.56,2.63,0.41,2.61,IndustrialProcesses
+IDN,Indonesia,2014,25.53,2.58,0.4,2.61,IndustrialProcesses
+IDN,Indonesia,2013,24.78,2.53,0.4,2.61,IndustrialProcesses
+IDN,Indonesia,2012,23.29,2.49,0.4,2.61,IndustrialProcesses
+IDN,Indonesia,2011,21.1,2.44,0.38,2.61,IndustrialProcesses
+IDN,Indonesia,2010,19.46,2.39,0.36,2.61,IndustrialProcesses
+IDN,Indonesia,2009,19.44,2.19,0.33,2.61,IndustrialProcesses
+IDN,Indonesia,2008,20.54,1.99,0.31,2.61,IndustrialProcesses
+IDN,Indonesia,2007,19.57,1.79,0.29,2.61,IndustrialProcesses
+IDN,Indonesia,2006,19.05,1.59,0.27,2.61,IndustrialProcesses
+IDN,Indonesia,2005,18.53,1.39,0.24,2.61,IndustrialProcesses
+IDN,Indonesia,2004,19.05,1.24,0.22,2.61,IndustrialProcesses
+IDN,Indonesia,2003,17.81,1.08,0.2,2.61,IndustrialProcesses
+IDN,Indonesia,2002,18.14,0.93,0.17,2.61,IndustrialProcesses
+IDN,Indonesia,2001,18.46,0.78,0.15,2.61,IndustrialProcesses
+IDN,Indonesia,2000,16.45,0.63,0.13,2.61,IndustrialProcesses
+IDN,Indonesia,1999,14.08,0.62,0.13,0,IndustrialProcesses
+IDN,Indonesia,1998,13.08,0.6,0.13,0,IndustrialProcesses
+IDN,Indonesia,1997,16.01,0.59,0.13,0,IndustrialProcesses
+IDN,Indonesia,1996,14.27,0.58,0.13,0,IndustrialProcesses
+IDN,Indonesia,1995,13.31,0.57,0.13,0,IndustrialProcesses
+IDN,Indonesia,1994,12.54,0.59,0.13,0,IndustrialProcesses
+IDN,Indonesia,1993,10.77,0.62,0.13,0,IndustrialProcesses
+IDN,Indonesia,1992,9.78,0.64,0.13,0,IndustrialProcesses
+IDN,Indonesia,1991,9.09,0.67,0.13,0,IndustrialProcesses
+IDN,Indonesia,1990,7.72,0.69,0.12,0,IndustrialProcesses
+IDN,Indonesia,2021,0,0,2.77,137.53,Waste
+IDN,Indonesia,2020,0,0,2.75,135.46,Waste
+IDN,Indonesia,2019,0,0,2.72,133.3,Waste
+IDN,Indonesia,2018,0,0,2.69,131.14,Waste
+IDN,Indonesia,2017,0,0,2.66,128.99,Waste
+IDN,Indonesia,2016,0,0,2.63,126.83,Waste
+IDN,Indonesia,2015,0,0,2.6,124.68,Waste
+IDN,Indonesia,2014,0,0,2.56,122.2,Waste
+IDN,Indonesia,2013,0,0,2.52,117.54,Waste
+IDN,Indonesia,2012,0,0,2.48,112.88,Waste
+IDN,Indonesia,2011,0,0,2.43,119.38,Waste
+IDN,Indonesia,2010,0,0,2.39,125.87,Waste
+IDN,Indonesia,2009,0,0,2.35,132.37,Waste
+IDN,Indonesia,2008,0,0,2.31,138.86,Waste
+IDN,Indonesia,2007,0,0,2.27,145.36,Waste
+IDN,Indonesia,2006,0,0,2.23,151.86,Waste
+IDN,Indonesia,2005,0,0,2.18,158.35,Waste
+IDN,Indonesia,2004,0,0,2.14,164.85,Waste
+IDN,Indonesia,2003,0,0,2.1,171.34,Waste
+IDN,Indonesia,2002,0,0,2.06,177.84,Waste
+IDN,Indonesia,2001,0,0,2.02,184.33,Waste
+IDN,Indonesia,2000,0,0,1.98,190.83,Waste
+IDN,Indonesia,1999,0,0,1.96,187.22,Waste
+IDN,Indonesia,1998,0,0,1.94,183.61,Waste
+IDN,Indonesia,1997,0,0,1.91,180,Waste
+IDN,Indonesia,1996,0,0,1.89,176.39,Waste
+IDN,Indonesia,1995,0,0,1.87,172.78,Waste
+IDN,Indonesia,1994,0,0,1.82,169.7,Waste
+IDN,Indonesia,1993,0,0,1.76,166.41,Waste
+IDN,Indonesia,1992,0,0,1.71,163.14,Waste
+IDN,Indonesia,1991,0,0,1.65,159.87,Waste
+IDN,Indonesia,1990,0,0,1.6,156.6,Waste
+IDN,Indonesia,2021,0,0,66.23,87.93,Agriculture
+IDN,Indonesia,2020,0,0,65.57,88.36,Agriculture
+IDN,Indonesia,2019,0,0,62.56,88.5,Agriculture
+IDN,Indonesia,2018,0,0,64.07,91.02,Agriculture
+IDN,Indonesia,2017,0,0,61.09,88.7,Agriculture
+IDN,Indonesia,2016,0,0,55.17,85.59,Agriculture
+IDN,Indonesia,2015,0,0,54.34,89.75,Agriculture
+IDN,Indonesia,2014,0,0,54.05,89.03,Agriculture
+IDN,Indonesia,2013,0,0,51.36,86.48,Agriculture
+IDN,Indonesia,2012,0,0,53.47,90.65,Agriculture
+IDN,Indonesia,2011,0,0,51.82,88.92,Agriculture
+IDN,Indonesia,2010,0,0,49.5,88.62,Agriculture
+IDN,Indonesia,2009,0,0,50.19,87.55,Agriculture
+IDN,Indonesia,2008,0,0,47.18,86.01,Agriculture
+IDN,Indonesia,2007,0,0,45.23,85.25,Agriculture
+IDN,Indonesia,2006,0,0,44.38,85.11,Agriculture
+IDN,Indonesia,2005,0,0,43.11,84.38,Agriculture
+IDN,Indonesia,2004,0,0,42.57,85.29,Agriculture
+IDN,Indonesia,2003,0,0,40.9,82.61,Agriculture
+IDN,Indonesia,2002,0,0,40.7,84.01,Agriculture
+IDN,Indonesia,2001,0,0,38.67,82.82,Agriculture
+IDN,Indonesia,2000,0,0,38.5,84.3,Agriculture
+IDN,Indonesia,1999,0,0,37.61,85.86,Agriculture
+IDN,Indonesia,1998,0,0,39.38,85.89,Agriculture
+IDN,Indonesia,1997,0,0,38.43,83.97,Agriculture
+IDN,Indonesia,1996,0,0,41.06,85.98,Agriculture
+IDN,Indonesia,1995,0,0,39.05,84.89,Agriculture
+IDN,Indonesia,1994,0,0,37.03,80.9,Agriculture
+IDN,Indonesia,1993,0,0,35.58,81.32,Agriculture
+IDN,Indonesia,1992,0,0,36.73,82.68,Agriculture
+IDN,Indonesia,1991,0,0,34.74,77.34,Agriculture
+IDN,Indonesia,1990,0,0,34.66,78.07,Agriculture
+IND,India,2021,149,26.43,3.04,0.13,IndustrialProcesses
+IND,India,2020,122.9,23.33,3.01,0.13,IndustrialProcesses
+IND,India,2019,143.7,21.74,2.98,0.13,IndustrialProcesses
+IND,India,2018,139,20.16,2.95,0.13,IndustrialProcesses
+IND,India,2017,121,18.57,2.92,0.13,IndustrialProcesses
+IND,India,2016,123.3,16.99,2.88,0.13,IndustrialProcesses
+IND,India,2015,117.5,15.4,2.85,0.13,IndustrialProcesses
+IND,India,2014,115.8,14.62,2.77,0.13,IndustrialProcesses
+IND,India,2013,107.8,13.84,2.68,0.13,IndustrialProcesses
+IND,India,2012,100.2,13.06,2.59,0.13,IndustrialProcesses
+IND,India,2011,91.31,12.28,2.5,0.13,IndustrialProcesses
+IND,India,2010,86.03,11.5,2.42,0.13,IndustrialProcesses
+IND,India,2009,81.27,10.89,2.56,0.13,IndustrialProcesses
+IND,India,2008,73.24,10.28,2.7,0.13,IndustrialProcesses
+IND,India,2007,68.33,9.67,2.84,0.13,IndustrialProcesses
+IND,India,2006,64.91,9.06,2.98,0.13,IndustrialProcesses
+IND,India,2005,59.69,8.45,3.12,0.13,IndustrialProcesses
+IND,India,2004,55.54,8.27,3.26,0.13,IndustrialProcesses
+IND,India,2003,50.88,8.1,3.4,0.13,IndustrialProcesses
+IND,India,2002,49.11,7.92,3.53,0.13,IndustrialProcesses
+IND,India,2001,46.74,7.75,3.67,0.13,IndustrialProcesses
+IND,India,2000,45.96,7.57,3.81,0.13,IndustrialProcesses
+IND,India,1999,44.59,6.73,3.63,0.12,IndustrialProcesses
+IND,India,1998,39.03,5.89,3.44,0.11,IndustrialProcesses
+IND,India,1997,37.42,5.04,3.25,0.09,IndustrialProcesses
+IND,India,1996,34.08,4.2,3.06,0.08,IndustrialProcesses
+IND,India,1995,31.1,3.36,2.87,0.06,IndustrialProcesses
+IND,India,1994,28.54,3.02,2.68,0.05,IndustrialProcesses
+IND,India,1993,26.6,2.67,2.63,0,IndustrialProcesses
+IND,India,1992,25.16,2.33,2.57,0,IndustrialProcesses
+IND,India,1991,24.5,1.98,2.51,0,IndustrialProcesses
+IND,India,1990,22.35,1.64,2.45,0,IndustrialProcesses
+IND,India,2021,0,0,14.84,71.57,Waste
+IND,India,2020,0,0,14.68,70.67,Waste
+IND,India,2019,0,0,14.52,69.74,Waste
+IND,India,2018,0,0,14.35,68.81,Waste
+IND,India,2017,0,0,14.19,67.88,Waste
+IND,India,2016,0,0,14.02,66.96,Waste
+IND,India,2015,0,0,13.86,66.03,Waste
+IND,India,2014,0,0,13.69,65.09,Waste
+IND,India,2013,0,0,13.52,64.15,Waste
+IND,India,2012,0,0,13.35,63.21,Waste
+IND,India,2011,0,0,13.18,62.27,Waste
+IND,India,2010,0,0,13.01,61.33,Waste
+IND,India,2009,0,0,12.11,60.96,Waste
+IND,India,2008,0,0,11.2,60.6,Waste
+IND,India,2007,0,0,10.29,60.23,Waste
+IND,India,2006,0,0,9.39,59.87,Waste
+IND,India,2005,0,0,8.48,59.5,Waste
+IND,India,2004,0,0,7.57,59.14,Waste
+IND,India,2003,0,0,6.66,58.77,Waste
+IND,India,2002,0,0,5.76,58.41,Waste
+IND,India,2001,0,0,4.85,58.04,Waste
+IND,India,2000,0,0,3.94,57.68,Waste
+IND,India,1999,0,0,3.63,52.25,Waste
+IND,India,1998,0,0,3.32,46.81,Waste
+IND,India,1997,0,0,3.01,41.38,Waste
+IND,India,1996,0,0,2.7,35.94,Waste
+IND,India,1995,0,0,2.4,30.51,Waste
+IND,India,1994,0,0,2.09,25.08,Waste
+IND,India,1993,0,0,2.04,24.47,Waste
+IND,India,1992,0,0,1.99,23.86,Waste
+IND,India,1991,0,0,1.95,23.25,Waste
+IND,India,1990,0,0,1.9,22.64,Waste
+IND,India,2021,0,0,238.17,513.92,Agriculture
+IND,India,2020,0,0,242.63,508.79,Agriculture
+IND,India,2019,0,0,230.69,501.06,Agriculture
+IND,India,2018,0,0,222.02,500.07,Agriculture
+IND,India,2017,0,0,216.54,496.22,Agriculture
+IND,India,2016,0,0,213.06,491.86,Agriculture
+IND,India,2015,0,0,214.86,489.1,Agriculture
+IND,India,2014,0,0,211.55,487.65,Agriculture
+IND,India,2013,0,0,210.13,487.49,Agriculture
+IND,India,2012,0,0,210.7,484.38,Agriculture
+IND,India,2011,0,0,213.71,487.57,Agriculture
+IND,India,2010,0,0,206.79,484.12,Agriculture
+IND,India,2009,0,0,199.78,481.09,Agriculture
+IND,India,2008,0,0,196.47,490.36,Agriculture
+IND,India,2007,0,0,193.3,485.86,Agriculture
+IND,India,2006,0,0,185.48,476.48,Agriculture
+IND,India,2005,0,0,177.19,470.03,Agriculture
+IND,India,2004,0,0,168.8,459.06,Agriculture
+IND,India,2003,0,0,163.48,454.78,Agriculture
+IND,India,2002,0,0,157.21,449.37,Agriculture
+IND,India,2001,0,0,164.17,458.4,Agriculture
+IND,India,2000,0,0,160.98,456.45,Agriculture
+IND,India,1999,0,0,165.03,457.74,Agriculture
+IND,India,1998,0,0,162.78,456.39,Agriculture
+IND,India,1997,0,0,159.51,452.4,Agriculture
+IND,India,1996,0,0,155.02,451.53,Agriculture
+IND,India,1995,0,0,150.9,448.12,Agriculture
+IND,India,1994,0,0,148.23,446.37,Agriculture
+IND,India,1993,0,0,142.91,443.69,Agriculture
+IND,India,1992,0,0,139.72,440.16,Agriculture
+IND,India,1991,0,0,135.83,437.56,Agriculture
+IND,India,1990,0,0,132.07,433.94,Agriculture
+IRN,Iran,2021,37.42,14.42,2.17,0.08,IndustrialProcesses
+IRN,Iran,2020,38.81,13.73,2.12,0.08,IndustrialProcesses
+IRN,Iran,2019,35.3,12.72,2.07,0.08,IndustrialProcesses
+IRN,Iran,2018,30.27,11.72,2.02,0.08,IndustrialProcesses
+IRN,Iran,2017,29.91,10.71,1.98,0.08,IndustrialProcesses
+IRN,Iran,2016,30.62,9.71,1.93,0.08,IndustrialProcesses
+IRN,Iran,2015,31.23,8.7,1.88,0.08,IndustrialProcesses
+IRN,Iran,2014,34.97,7.97,1.78,0.08,IndustrialProcesses
+IRN,Iran,2013,36.72,7.23,1.69,0.08,IndustrialProcesses
+IRN,Iran,2012,34.82,6.5,1.59,0.08,IndustrialProcesses
+IRN,Iran,2011,32.91,5.76,1.5,0.08,IndustrialProcesses
+IRN,Iran,2010,30.1,5.02,1.4,0.08,IndustrialProcesses
+IRN,Iran,2009,24.56,4.72,1.25,0.08,IndustrialProcesses
+IRN,Iran,2008,21.61,4.41,1.11,0.08,IndustrialProcesses
+IRN,Iran,2007,19.4,4.1,0.96,0.08,IndustrialProcesses
+IRN,Iran,2006,17.25,3.8,0.81,0.08,IndustrialProcesses
+IRN,Iran,2005,16.13,3.49,0.66,0.08,IndustrialProcesses
+IRN,Iran,2004,15.76,3.4,0.67,0.08,IndustrialProcesses
+IRN,Iran,2003,14.64,3.31,0.68,0.08,IndustrialProcesses
+IRN,Iran,2002,14.07,3.21,0.69,0.08,IndustrialProcesses
+IRN,Iran,2001,13.67,3.12,0.7,0.08,IndustrialProcesses
+IRN,Iran,2000,12.03,3.03,0.71,0.08,IndustrialProcesses
+IRN,Iran,1999,10.96,2.91,0.7,0.07,IndustrialProcesses
+IRN,Iran,1998,9.99,2.8,0.69,0.07,IndustrialProcesses
+IRN,Iran,1997,9.47,2.68,0.68,0.06,IndustrialProcesses
+IRN,Iran,1996,8.78,2.57,0.67,0.06,IndustrialProcesses
+IRN,Iran,1995,8.59,2.45,0.66,0.05,IndustrialProcesses
+IRN,Iran,1994,8.27,2.31,0.66,0.05,IndustrialProcesses
+IRN,Iran,1993,7.95,2.17,0.63,0,IndustrialProcesses
+IRN,Iran,1992,7.49,2.03,0.61,0,IndustrialProcesses
+IRN,Iran,1991,7.48,1.89,0.59,0,IndustrialProcesses
+IRN,Iran,1990,7.26,1.75,0.57,0,IndustrialProcesses
+IRN,Iran,2021,0,0,16.55,31.84,Waste
+IRN,Iran,2020,0,0,16.43,31.44,Waste
+IRN,Iran,2019,0,0,16.26,31,Waste
+IRN,Iran,2018,0,0,16.09,30.56,Waste
+IRN,Iran,2017,0,0,15.92,30.12,Waste
+IRN,Iran,2016,0,0,15.75,29.67,Waste
+IRN,Iran,2015,0,0,15.58,29.23,Waste
+IRN,Iran,2014,0,0,15.36,28.77,Waste
+IRN,Iran,2013,0,0,15.13,28.3,Waste
+IRN,Iran,2012,0,0,14.91,27.84,Waste
+IRN,Iran,2011,0,0,14.68,27.37,Waste
+IRN,Iran,2010,0,0,14.46,26.91,Waste
+IRN,Iran,2009,0,0,14.23,26.46,Waste
+IRN,Iran,2008,0,0,14.01,26,Waste
+IRN,Iran,2007,0,0,13.78,25.55,Waste
+IRN,Iran,2006,0,0,13.55,25.1,Waste
+IRN,Iran,2005,0,0,13.33,24.65,Waste
+IRN,Iran,2004,0,0,13.14,24.18,Waste
+IRN,Iran,2003,0,0,12.94,23.71,Waste
+IRN,Iran,2002,0,0,12.75,23.25,Waste
+IRN,Iran,2001,0,0,12.56,22.78,Waste
+IRN,Iran,2000,0,0,12.37,22.31,Waste
+IRN,Iran,1999,0,0,10.54,19.96,Waste
+IRN,Iran,1998,0,0,8.71,17.6,Waste
+IRN,Iran,1997,0,0,6.87,15.24,Waste
+IRN,Iran,1996,0,0,5.04,12.88,Waste
+IRN,Iran,1995,0,0,3.21,10.53,Waste
+IRN,Iran,1994,0,0,1.38,8.17,Waste
+IRN,Iran,1993,0,0,1.35,7.9,Waste
+IRN,Iran,1992,0,0,1.32,7.64,Waste
+IRN,Iran,1991,0,0,1.3,7.37,Waste
+IRN,Iran,1990,0,0,1.27,7.11,Waste
+IRN,Iran,2021,0,0,17.72,17.63,Agriculture
+IRN,Iran,2020,0,0,17.91,18.24,Agriculture
+IRN,Iran,2019,0,0,16.96,17.58,Agriculture
+IRN,Iran,2018,0,0,16.13,16.5,Agriculture
+IRN,Iran,2017,0,0,15.16,16.04,Agriculture
+IRN,Iran,2016,0,0,15.54,17.93,Agriculture
+IRN,Iran,2015,0,0,15.14,16.98,Agriculture
+IRN,Iran,2014,0,0,15.36,16.01,Agriculture
+IRN,Iran,2013,0,0,16.43,20.88,Agriculture
+IRN,Iran,2012,0,0,16.76,21.01,Agriculture
+IRN,Iran,2011,0,0,16.01,20.79,Agriculture
+IRN,Iran,2010,0,0,18.89,21.6,Agriculture
+IRN,Iran,2009,0,0,19.33,21.34,Agriculture
+IRN,Iran,2008,0,0,19.43,20.99,Agriculture
+IRN,Iran,2007,0,0,20.34,23.55,Agriculture
+IRN,Iran,2006,0,0,21.65,23.49,Agriculture
+IRN,Iran,2005,0,0,19.89,23.37,Agriculture
+IRN,Iran,2004,0,0,19.44,23.03,Agriculture
+IRN,Iran,2003,0,0,18.35,22.75,Agriculture
+IRN,Iran,2002,0,0,17.72,22.6,Agriculture
+IRN,Iran,2001,0,0,16.86,23.04,Agriculture
+IRN,Iran,2000,0,0,16.67,23.28,Agriculture
+IRN,Iran,1999,0,0,16.68,24.06,Agriculture
+IRN,Iran,1998,0,0,17.26,24.54,Agriculture
+IRN,Iran,1997,0,0,16.54,23.89,Agriculture
+IRN,Iran,1996,0,0,15.57,23.86,Agriculture
+IRN,Iran,1995,0,0,15.14,23.22,Agriculture
+IRN,Iran,1994,0,0,14.84,22.86,Agriculture
+IRN,Iran,1993,0,0,14.36,22.63,Agriculture
+IRN,Iran,1992,0,0,15.96,22.46,Agriculture
+IRN,Iran,1991,0,0,14.19,20.86,Agriculture
+IRN,Iran,1990,0,0,13.62,21.39,Agriculture
+JPN,Japan,2021,24.4,36.24,1.08,0.04,IndustrialProcesses
+JPN,Japan,2020,24.49,36.21,1.05,0.04,IndustrialProcesses
+JPN,Japan,2019,25.33,38.85,1.03,0.04,IndustrialProcesses
+JPN,Japan,2018,26.18,41.5,1,0.04,IndustrialProcesses
+JPN,Japan,2017,26.43,44.14,0.98,0.04,IndustrialProcesses
+JPN,Japan,2016,25.97,46.79,0.96,0.04,IndustrialProcesses
+JPN,Japan,2015,25.94,43.46,0.93,0.05,IndustrialProcesses
+JPN,Japan,2014,26.56,39.79,1.23,0.04,IndustrialProcesses
+JPN,Japan,2013,26.81,35.86,1.05,0.05,IndustrialProcesses
+JPN,Japan,2012,25.62,33.22,0.91,0.05,IndustrialProcesses
+JPN,Japan,2011,24.98,30.04,1.03,0.05,IndustrialProcesses
+JPN,Japan,2010,24.32,27.64,1.31,0.05,IndustrialProcesses
+JPN,Japan,2009,25.31,24.9,1.76,0.05,IndustrialProcesses
+JPN,Japan,2008,28.55,25.16,1.51,0.05,IndustrialProcesses
+JPN,Japan,2007,30.66,24.31,1.16,0.05,IndustrialProcesses
+JPN,Japan,2006,31.99,22.95,1.96,0.05,IndustrialProcesses
+JPN,Japan,2005,32.28,20.76,1.62,0.05,IndustrialProcesses
+JPN,Japan,2004,31.28,21.65,1.96,0.05,IndustrialProcesses
+JPN,Japan,2003,31.94,25.25,1.59,0.05,IndustrialProcesses
+JPN,Japan,2002,32.42,25.59,1.57,0.05,IndustrialProcesses
+JPN,Japan,2001,34.37,29.12,1.73,0.05,IndustrialProcesses
+JPN,Japan,2000,35.09,35.14,4.88,0.05,IndustrialProcesses
+JPN,Japan,1999,35.01,37.88,2.31,0.05,IndustrialProcesses
+JPN,Japan,1998,35.36,40.12,8.64,0.05,IndustrialProcesses
+JPN,Japan,1997,39.93,41.44,9.84,0.06,IndustrialProcesses
+JPN,Japan,1996,42.56,41.26,9.3,0.06,IndustrialProcesses
+JPN,Japan,1995,42.14,40.12,8.34,0.06,IndustrialProcesses
+JPN,Japan,1994,42.3,33.93,8.42,0.06,IndustrialProcesses
+JPN,Japan,1993,41.22,31.12,7.44,0.05,IndustrialProcesses
+JPN,Japan,1992,41.67,30.23,7.58,0.05,IndustrialProcesses
+JPN,Japan,1991,40.35,28.97,7.61,0.06,IndustrialProcesses
+JPN,Japan,1990,38.7,26.3,8.24,0.06,IndustrialProcesses
+JPN,Japan,2021,0,0,1.97,4.5,Waste
+JPN,Japan,2020,0,0,1.98,4.59,Waste
+JPN,Japan,2019,0,0,1.99,4.7,Waste
+JPN,Japan,2018,0,0,1.99,4.81,Waste
+JPN,Japan,2017,0,0,1.99,4.93,Waste
+JPN,Japan,2016,0,0,2,5.04,Waste
+JPN,Japan,2015,0,0,2,5.22,Waste
+JPN,Japan,2014,0,0,2.01,5.45,Waste
+JPN,Japan,2013,0,0,2.05,5.7,Waste
+JPN,Japan,2012,0,0,2.03,5.92,Waste
+JPN,Japan,2011,0,0,2.08,6.17,Waste
+JPN,Japan,2010,0,0,2.06,6.43,Waste
+JPN,Japan,2009,0,0,2.06,6.8,Waste
+JPN,Japan,2008,0,0,2.14,7.16,Waste
+JPN,Japan,2007,0,0,2.11,7.51,Waste
+JPN,Japan,2006,0,0,2.13,7.86,Waste
+JPN,Japan,2005,0,0,2.14,8.21,Waste
+JPN,Japan,2004,0,0,2.16,8.55,Waste
+JPN,Japan,2003,0,0,2.14,8.9,Waste
+JPN,Japan,2002,0,0,2.09,9.22,Waste
+JPN,Japan,2001,0,0,2.1,9.53,Waste
+JPN,Japan,2000,0,0,2.07,10.04,Waste
+JPN,Japan,1999,0,0,2.12,10.36,Waste
+JPN,Japan,1998,0,0,2.2,10.69,Waste
+JPN,Japan,1997,0,0,2.21,11.06,Waste
+JPN,Japan,1996,0,0,2.2,11.37,Waste
+JPN,Japan,1995,0,0,2.21,11.64,Waste
+JPN,Japan,1994,0,0,2.17,11.93,Waste
+JPN,Japan,1993,0,0,2.19,12.1,Waste
+JPN,Japan,1992,0,0,2.19,12.29,Waste
+JPN,Japan,1991,0,0,2.17,12.32,Waste
+JPN,Japan,1990,0,0,2.16,12.46,Waste
+JPN,Japan,2021,0,0,7.72,13.89,Agriculture
+JPN,Japan,2020,0,0,7.7,14.13,Agriculture
+JPN,Japan,2019,0,0,7.68,14.07,Agriculture
+JPN,Japan,2018,0,0,7.73,14.08,Agriculture
+JPN,Japan,2017,0,0,7.83,14.52,Agriculture
+JPN,Japan,2016,0,0,7.77,14.6,Agriculture
+JPN,Japan,2015,0,0,7.69,14.77,Agriculture
+JPN,Japan,2014,0,0,7.98,15.01,Agriculture
+JPN,Japan,2013,0,0,7.86,15.23,Agriculture
+JPN,Japan,2012,0,0,7.65,15.28,Agriculture
+JPN,Japan,2011,0,0,7.61,15.38,Agriculture
+JPN,Japan,2010,0,0,8.22,15.8,Agriculture
+JPN,Japan,2009,0,0,7.9,15.79,Agriculture
+JPN,Japan,2008,0,0,8.03,15.8,Agriculture
+JPN,Japan,2007,0,0,8.78,16.03,Agriculture
+JPN,Japan,2006,0,0,8.59,16.11,Agriculture
+JPN,Japan,2005,0,0,8.69,16.22,Agriculture
+JPN,Japan,2004,0,0,8.81,16.33,Agriculture
+JPN,Japan,2003,0,0,8.91,16.22,Agriculture
+JPN,Japan,2002,0,0,8.88,16.39,Agriculture
+JPN,Japan,2001,0,0,8.97,16.46,Agriculture
+JPN,Japan,2000,0,0,9.06,16.9,Agriculture
+JPN,Japan,1999,0,0,9.04,17.11,Agriculture
+JPN,Japan,1998,0,0,9.05,17.26,Agriculture
+JPN,Japan,1997,0,0,9.29,18.11,Agriculture
+JPN,Japan,1996,0,0,9.45,18.35,Agriculture
+JPN,Japan,1995,0,0,9.68,19.24,Agriculture
+JPN,Japan,1994,0,0,10.18,19.89,Agriculture
+JPN,Japan,1993,0,0,10.14,19.59,Agriculture
+JPN,Japan,1992,0,0,10.13,19.38,Agriculture
+JPN,Japan,1991,0,0,10.04,18.98,Agriculture
+JPN,Japan,1990,0,0,10.32,19,Agriculture
+KOR,South Korea,2021,23.7,62.36,0.46,0.65,IndustrialProcesses
+KOR,South Korea,2020,22.87,57.56,0.44,0.65,IndustrialProcesses
+KOR,South Korea,2019,24.93,54.64,0.42,0.65,IndustrialProcesses
+KOR,South Korea,2018,24.7,51.71,0.4,0.65,IndustrialProcesses
+KOR,South Korea,2017,26.35,48.79,0.39,0.65,IndustrialProcesses
+KOR,South Korea,2016,26.67,45.86,0.37,0.65,IndustrialProcesses
+KOR,South Korea,2015,25.78,42.94,0.35,0.65,IndustrialProcesses
+KOR,South Korea,2014,25.41,41.78,0.35,0.65,IndustrialProcesses
+KOR,South Korea,2013,25.05,40.46,0.26,0.65,IndustrialProcesses
+KOR,South Korea,2012,24.85,39.2,0.2,0.65,IndustrialProcesses
+KOR,South Korea,2011,24.72,37.79,0.3,0.61,IndustrialProcesses
+KOR,South Korea,2010,24.3,36.77,0.2,0.62,IndustrialProcesses
+KOR,South Korea,2009,24.55,33.88,0.23,0.6,IndustrialProcesses
+KOR,South Korea,2008,26.08,31.95,0.27,0.59,IndustrialProcesses
+KOR,South Korea,2007,26.28,29.47,0.88,0.61,IndustrialProcesses
+KOR,South Korea,2006,23.14,26.74,9.55,0.58,IndustrialProcesses
+KOR,South Korea,2005,23.33,23.94,10.31,0.56,IndustrialProcesses
+KOR,South Korea,2004,26.12,22.38,12.14,0.55,IndustrialProcesses
+KOR,South Korea,2003,27.92,20.34,9.86,0.54,IndustrialProcesses
+KOR,South Korea,2002,27.11,18.51,6.65,0.54,IndustrialProcesses
+KOR,South Korea,2001,25.67,16.96,6.89,0.5,IndustrialProcesses
+KOR,South Korea,2000,24.76,15.71,6.52,0.52,IndustrialProcesses
+KOR,South Korea,1999,23.72,13.6,5.73,0.49,IndustrialProcesses
+KOR,South Korea,1998,22.88,11.61,4.8,0.47,IndustrialProcesses
+KOR,South Korea,1997,29.32,9.89,4.18,0.45,IndustrialProcesses
+KOR,South Korea,1996,28.31,7.04,3.47,0.36,IndustrialProcesses
+KOR,South Korea,1995,28.1,4.76,3.07,0.32,IndustrialProcesses
+KOR,South Korea,1994,26.84,3.99,2.58,0.31,IndustrialProcesses
+KOR,South Korea,1993,24.7,3.22,2.35,0.29,IndustrialProcesses
+KOR,South Korea,1992,21.13,2.48,2.34,0.26,IndustrialProcesses
+KOR,South Korea,1991,18.96,1.74,0.38,0.19,IndustrialProcesses
+KOR,South Korea,1990,15.87,1,0.15,0.13,IndustrialProcesses
+KOR,South Korea,2021,0,0,1.26,7.83,Waste
+KOR,South Korea,2020,0,0,1.26,7.98,Waste
+KOR,South Korea,2019,0,0,1.25,8.18,Waste
+KOR,South Korea,2018,0,0,1.25,8.37,Waste
+KOR,South Korea,2017,0,0,1.25,8.57,Waste
+KOR,South Korea,2016,0,0,1.24,8.77,Waste
+KOR,South Korea,2015,0,0,1.24,8.97,Waste
+KOR,South Korea,2014,0,0,1.23,9.23,Waste
+KOR,South Korea,2013,0,0,1.25,9.07,Waste
+KOR,South Korea,2012,0,0,1.24,9.16,Waste
+KOR,South Korea,2011,0,0,1.24,9.63,Waste
+KOR,South Korea,2010,0,0,1.2,9.85,Waste
+KOR,South Korea,2009,0,0,1.12,10.24,Waste
+KOR,South Korea,2008,0,0,1.09,10.13,Waste
+KOR,South Korea,2007,0,0,1.07,10.32,Waste
+KOR,South Korea,2006,0,0,1.06,11.11,Waste
+KOR,South Korea,2005,0,0,1.13,11.36,Waste
+KOR,South Korea,2004,0,0,1,11.48,Waste
+KOR,South Korea,2003,0,0,1,12.76,Waste
+KOR,South Korea,2002,0,0,1,12.7,Waste
+KOR,South Korea,2001,0,0,0.98,12.62,Waste
+KOR,South Korea,2000,0,0,0.98,12.07,Waste
+KOR,South Korea,1999,0,0,0.95,12.02,Waste
+KOR,South Korea,1998,0,0,0.94,12.04,Waste
+KOR,South Korea,1997,0,0,0.93,13.12,Waste
+KOR,South Korea,1996,0,0,0.91,12.86,Waste
+KOR,South Korea,1995,0,0,0.91,12.53,Waste
+KOR,South Korea,1994,0,0,0.89,12.25,Waste
+KOR,South Korea,1993,0,0,0.88,11.55,Waste
+KOR,South Korea,1992,0,0,0.89,11.22,Waste
+KOR,South Korea,1991,0,0,0.86,10.54,Waste
+KOR,South Korea,1990,0,0,0.92,9.67,Waste
+KOR,South Korea,2021,0,0,5.1,9.76,Agriculture
+KOR,South Korea,2020,0,0,5.09,9.5,Agriculture
+KOR,South Korea,2019,0,0,4.92,9.34,Agriculture
+KOR,South Korea,2018,0,0,4.89,9.23,Agriculture
+KOR,South Korea,2017,0,0,4.78,9.2,Agriculture
+KOR,South Korea,2016,0,0,4.76,9.21,Agriculture
+KOR,South Korea,2015,0,0,4.71,9.24,Agriculture
+KOR,South Korea,2014,0,0,4.63,9.14,Agriculture
+KOR,South Korea,2013,0,0,4.73,9.4,Agriculture
+KOR,South Korea,2012,0,0,4.82,9.65,Agriculture
+KOR,South Korea,2011,0,0,4.64,9.39,Agriculture
+KOR,South Korea,2010,0,0,4.7,9.72,Agriculture
+KOR,South Korea,2009,0,0,4.61,9.54,Agriculture
+KOR,South Korea,2008,0,0,4.76,9.32,Agriculture
+KOR,South Korea,2007,0,0,5.04,9.19,Agriculture
+KOR,South Korea,2006,0,0,4.71,9,Agriculture
+KOR,South Korea,2005,0,0,5.25,8.89,Agriculture
+KOR,South Korea,2004,0,0,4.98,8.84,Agriculture
+KOR,South Korea,2003,0,0,4.7,8.74,Agriculture
+KOR,South Korea,2002,0,0,4.66,8.87,Agriculture
+KOR,South Korea,2001,0,0,4.8,9.01,Agriculture
+KOR,South Korea,2000,0,0,5.06,9.13,Agriculture
+KOR,South Korea,1999,0,0,5.3,9.49,Agriculture
+KOR,South Korea,1998,0,0,5.58,9.95,Agriculture
+KOR,South Korea,1997,0,0,6.13,10.32,Agriculture
+KOR,South Korea,1996,0,0,5.83,10.41,Agriculture
+KOR,South Korea,1995,0,0,5.81,10.15,Agriculture
+KOR,South Korea,1994,0,0,5.65,10.1,Agriculture
+KOR,South Korea,1993,0,0,5.55,10.11,Agriculture
+KOR,South Korea,1992,0,0,5.48,9.83,Agriculture
+KOR,South Korea,1991,0,0,5.24,9.73,Agriculture
+KOR,South Korea,1990,0,0,5.36,9.74,Agriculture
+RUS,Russia,2021,22.16,28.28,5.84,0.59,IndustrialProcesses
+RUS,Russia,2020,20.58,26.75,5.82,0.59,IndustrialProcesses
+RUS,Russia,2019,20.31,27.21,5.81,0.59,IndustrialProcesses
+RUS,Russia,2018,20.09,27.67,5.79,0.59,IndustrialProcesses
+RUS,Russia,2017,20.51,28.13,5.78,0.59,IndustrialProcesses
+RUS,Russia,2016,20.43,28.58,5.76,0.59,IndustrialProcesses
+RUS,Russia,2015,23.17,27.08,5.52,0.58,IndustrialProcesses
+RUS,Russia,2014,26.45,28.95,5.12,0.56,IndustrialProcesses
+RUS,Russia,2013,27.28,26.14,5.2,0.58,IndustrialProcesses
+RUS,Russia,2012,26.33,21.95,5.02,0.54,IndustrialProcesses
+RUS,Russia,2011,25.13,15.26,5.11,0.54,IndustrialProcesses
+RUS,Russia,2010,22.72,17.55,4.93,0.52,IndustrialProcesses
+RUS,Russia,2009,19.75,16.4,4.79,0.46,IndustrialProcesses
+RUS,Russia,2008,23.63,23.3,3.83,0.55,IndustrialProcesses
+RUS,Russia,2007,27.64,22.53,4.21,0.53,IndustrialProcesses
+RUS,Russia,2006,24.54,24.32,4,0.52,IndustrialProcesses
+RUS,Russia,2005,22.26,26.94,3.99,0.49,IndustrialProcesses
+RUS,Russia,2004,20.92,25.82,3.73,0.49,IndustrialProcesses
+RUS,Russia,2003,18.67,22.07,3.52,0.48,IndustrialProcesses
+RUS,Russia,2002,17.12,27.44,3.68,0.43,IndustrialProcesses
+RUS,Russia,2001,15.86,35.04,3.23,0.42,IndustrialProcesses
+RUS,Russia,2000,15.11,37.29,3.05,0.39,IndustrialProcesses
+RUS,Russia,1999,13.17,33.16,2.63,0.34,IndustrialProcesses
+RUS,Russia,1998,11.92,32.64,2.43,0.27,IndustrialProcesses
+RUS,Russia,1997,12.27,29.2,2.73,0.3,IndustrialProcesses
+RUS,Russia,1996,12.72,26.48,2.99,0.26,IndustrialProcesses
+RUS,Russia,1995,16.65,29.96,2.78,0.32,IndustrialProcesses
+RUS,Russia,1994,16.48,30.58,2.5,0.33,IndustrialProcesses
+RUS,Russia,1993,21.99,33.92,2.97,0.36,IndustrialProcesses
+RUS,Russia,1992,26.72,44.34,3.58,0.39,IndustrialProcesses
+RUS,Russia,1991,0,52,4.19,0.42,IndustrialProcesses
+RUS,Russia,1990,0,52.76,4.13,0.45,IndustrialProcesses
+RUS,Russia,2021,0,0,2.9,116.35,Waste
+RUS,Russia,2020,0,0,2.91,115.77,Waste
+RUS,Russia,2019,0,0,2.91,115.04,Waste
+RUS,Russia,2018,0,0,2.91,114.3,Waste
+RUS,Russia,2017,0,0,2.91,113.57,Waste
+RUS,Russia,2016,0,0,2.92,112.83,Waste
+RUS,Russia,2015,0,0,2.81,110.38,Waste
+RUS,Russia,2014,0,0,2.78,107.7,Waste
+RUS,Russia,2013,0,0,2.77,103.67,Waste
+RUS,Russia,2012,0,0,2.79,100.83,Waste
+RUS,Russia,2011,0,0,2.73,98.22,Waste
+RUS,Russia,2010,0,0,2.72,95.44,Waste
+RUS,Russia,2009,0,0,2.7,93.38,Waste
+RUS,Russia,2008,0,0,2.68,91.67,Waste
+RUS,Russia,2007,0,0,2.65,89.89,Waste
+RUS,Russia,2006,0,0,2.56,88.16,Waste
+RUS,Russia,2005,0,0,2.54,86.57,Waste
+RUS,Russia,2004,0,0,2.45,84.87,Waste
+RUS,Russia,2003,0,0,2.45,83.66,Waste
+RUS,Russia,2002,0,0,2.42,82.59,Waste
+RUS,Russia,2001,0,0,2.39,81.82,Waste
+RUS,Russia,2000,0,0,2.35,80.88,Waste
+RUS,Russia,1999,0,0,2.4,80.45,Waste
+RUS,Russia,1998,0,0,2.46,79.64,Waste
+RUS,Russia,1997,0,0,2.47,79.64,Waste
+RUS,Russia,1996,0,0,2.36,79.2,Waste
+RUS,Russia,1995,0,0,2.49,79.02,Waste
+RUS,Russia,1994,0,0,2.53,78.55,Waste
+RUS,Russia,1993,0,0,2.56,78.77,Waste
+RUS,Russia,1992,0,0,2.56,78.47,Waste
+RUS,Russia,1991,0,0,2.74,78.81,Waste
+RUS,Russia,1990,0,0,2.78,78.33,Waste
+RUS,Russia,2021,0,0,52.22,50.89,Agriculture
+RUS,Russia,2020,0,0,53.05,51.3,Agriculture
+RUS,Russia,2019,0,0,50.73,51.09,Agriculture
+RUS,Russia,2018,0,0,48.78,51.12,Agriculture
+RUS,Russia,2017,0,0,48.81,50.66,Agriculture
+RUS,Russia,2016,0,0,48.23,51.98,Agriculture
+RUS,Russia,2015,0,0,45.83,52.79,Agriculture
+RUS,Russia,2014,0,0,47.13,54.82,Agriculture
+RUS,Russia,2013,0,0,44.25,53.77,Agriculture
+RUS,Russia,2012,0,0,43.93,54.94,Agriculture
+RUS,Russia,2011,0,0,45.3,54.29,Agriculture
+RUS,Russia,2010,0,0,43.14,55.73,Agriculture
+RUS,Russia,2009,0,0,45.14,55.74,Agriculture
+RUS,Russia,2008,0,0,47.44,58.03,Agriculture
+RUS,Russia,2007,0,0,42.66,56.14,Agriculture
+RUS,Russia,2006,0,0,41.81,56.31,Agriculture
+RUS,Russia,2005,0,0,42.01,58.71,Agriculture
+RUS,Russia,2004,0,0,42.38,62.28,Agriculture
+RUS,Russia,2003,0,0,46.88,69.86,Agriculture
+RUS,Russia,2002,0,0,45.97,68.55,Agriculture
+RUS,Russia,2001,0,0,46.57,68.73,Agriculture
+RUS,Russia,2000,0,0,44.17,69.83,Agriculture
+RUS,Russia,1999,0,0,43.33,70.67,Agriculture
+RUS,Russia,1998,0,0,45.8,78.63,Agriculture
+RUS,Russia,1997,0,0,49.71,84.98,Agriculture
+RUS,Russia,1996,0,0,53.48,96.84,Agriculture
+RUS,Russia,1995,0,0,56.85,106.36,Agriculture
+RUS,Russia,1994,0,0,61.83,119.68,Agriculture
+RUS,Russia,1993,0,0,73.31,128.12,Agriculture
+RUS,Russia,1992,0,0,79.28,133.78,Agriculture
+RUS,Russia,1991,0,0,79.34,146.68,Agriculture
+RUS,Russia,1990,0,0,90.91,149.6,Agriculture
+USA,United States,2021,41.31,183.76,24.95,0.28,IndustrialProcesses
+USA,United States,2020,40.69,178.4,24.15,0.28,IndustrialProcesses
+USA,United States,2019,40.9,174.03,23.45,0.28,IndustrialProcesses
+USA,United States,2018,38.97,169.66,22.76,0.28,IndustrialProcesses
+USA,United States,2017,40.32,165.29,22.07,0.28,IndustrialProcesses
+USA,United States,2016,39.44,160.92,21.38,0.28,IndustrialProcesses
+USA,United States,2015,39.91,161.05,20.04,0.21,IndustrialProcesses
+USA,United States,2014,39.44,159.16,20.59,0.16,IndustrialProcesses
+USA,United States,2013,36.37,154.04,18.83,0.11,IndustrialProcesses
+USA,United States,2012,35.27,154.58,20.21,0.1,IndustrialProcesses
+USA,United States,2011,32.21,159.37,25.33,0.08,IndustrialProcesses
+USA,United States,2010,31.45,153.08,19.98,0.08,IndustrialProcesses
+USA,United States,2009,29.61,144.31,16.56,0.08,IndustrialProcesses
+USA,United States,2008,41.42,149.44,17.97,0.08,IndustrialProcesses
+USA,United States,2007,45.51,148.45,27.67,0.09,IndustrialProcesses
+USA,United States,2006,46.85,137.6,23.86,0.08,IndustrialProcesses
+USA,United States,2005,46.19,135.45,22.67,0.11,IndustrialProcesses
+USA,United States,2004,45.89,134.13,18.81,0.2,IndustrialProcesses
+USA,United States,2003,43.35,127.23,20.67,0.24,IndustrialProcesses
+USA,United States,2002,43.16,137.81,20.85,0.24,IndustrialProcesses
+USA,United States,2001,41.61,130.28,19.96,0.24,IndustrialProcesses
+USA,United States,2000,41.45,143.65,23.26,0.34,IndustrialProcesses
+USA,United States,1999,40.24,142.42,23.09,0.39,IndustrialProcesses
+USA,United States,1998,39.46,145.82,24.04,0.4,IndustrialProcesses
+USA,United States,1997,38.56,130.98,28.56,0.41,IndustrialProcesses
+USA,United States,1996,37.31,124.38,35.2,0.39,IndustrialProcesses
+USA,United States,1995,37.08,115.29,34.81,0.36,IndustrialProcesses
+USA,United States,1994,36.31,97.57,31.29,0.35,IndustrialProcesses
+USA,United States,1993,34.84,94.45,30.94,0.34,IndustrialProcesses
+USA,United States,1992,32.99,94.74,29.31,0.28,IndustrialProcesses
+USA,United States,1991,32.74,90.15,31.13,0.29,IndustrialProcesses
+USA,United States,1990,33.48,99.39,31.56,0.29,IndustrialProcesses
+USA,United States,2021,0,0,6.83,129.94,Waste
+USA,United States,2020,0,0,6.79,128.66,Waste
+USA,United States,2019,0,0,6.75,127.59,Waste
+USA,United States,2018,0,0,6.72,126.52,Waste
+USA,United States,2017,0,0,6.68,125.45,Waste
+USA,United States,2016,0,0,6.65,124.38,Waste
+USA,United States,2015,0,0,6.53,128.67,Waste
+USA,United States,2014,0,0,6.54,129.56,Waste
+USA,United States,2013,0,0,6.37,130.06,Waste
+USA,United States,2012,0,0,6.32,133.99,Waste
+USA,United States,2011,0,0,6.2,133.03,Waste
+USA,United States,2010,0,0,6.17,142.1,Waste
+USA,United States,2009,0,0,6.14,141.31,Waste
+USA,United States,2008,0,0,6.26,143.96,Waste
+USA,United States,2007,0,0,6.28,146.06,Waste
+USA,United States,2006,0,0,6.18,148.17,Waste
+USA,United States,2005,0,0,6.05,150.39,Waste
+USA,United States,2004,0,0,6.07,152.45,Waste
+USA,United States,2003,0,0,5.86,154.99,Waste
+USA,United States,2002,0,0,5.58,152.41,Waste
+USA,United States,2001,0,0,5.47,154.34,Waste
+USA,United States,2000,0,0,5.47,159.22,Waste
+USA,United States,1999,0,0,5.26,162.37,Waste
+USA,United States,1998,0,0,4.99,168.83,Waste
+USA,United States,1997,0,0,4.8,178.46,Waste
+USA,United States,1996,0,0,4.69,187.7,Waste
+USA,United States,1995,0,0,4.52,191.23,Waste
+USA,United States,1994,0,0,4.41,196.11,Waste
+USA,United States,1993,0,0,4.16,196.06,Waste
+USA,United States,1992,0,0,3.99,198.09,Waste
+USA,United States,1991,0,0,3.85,198.05,Waste
+USA,United States,1990,0,0,3.72,195.62,Waste
+USA,United States,2021,0,0,177.68,199.34,Agriculture
+USA,United States,2020,0,0,177.67,202.01,Agriculture
+USA,United States,2019,0,0,175.87,201.39,Agriculture
+USA,United States,2018,0,0,177.75,201.75,Agriculture
+USA,United States,2017,0,0,175.25,198.08,Agriculture
+USA,United States,2016,0,0,177.21,197.44,Agriculture
+USA,United States,2015,0,0,173.08,191.11,Agriculture
+USA,United States,2014,0,0,172.6,190.8,Agriculture
+USA,United States,2013,0,0,173.63,190.29,Agriculture
+USA,United States,2012,0,0,172.26,193.38,Agriculture
+USA,United States,2011,0,0,174.27,195.55,Agriculture
+USA,United States,2010,0,0,171.54,199.28,Agriculture
+USA,United States,2009,0,0,169.61,198.7,Agriculture
+USA,United States,2008,0,0,165.39,201.3,Agriculture
+USA,United States,2007,0,0,171.55,199.69,Agriculture
+USA,United States,2006,0,0,172.04,199.01,Agriculture
+USA,United States,2005,0,0,166.19,198.57,Agriculture
+USA,United States,2004,0,0,168.15,196.96,Agriculture
+USA,United States,2003,0,0,169.58,196.92,Agriculture
+USA,United States,2002,0,0,162.01,197.86,Agriculture
+USA,United States,2001,0,0,161.98,198.39,Agriculture
+USA,United States,2000,0,0,163.36,199.16,Agriculture
+USA,United States,1999,0,0,166.51,201.89,Agriculture
+USA,United States,1998,0,0,168.04,202.8,Agriculture
+USA,United States,1997,0,0,167.66,204.65,Agriculture
+USA,United States,1996,0,0,168.23,205.48,Agriculture
+USA,United States,1995,0,0,163.22,206.1,Agriculture
+USA,United States,1994,0,0,165.76,205.35,Agriculture
+USA,United States,1993,0,0,160.48,200.71,Agriculture
+USA,United States,1992,0,0,159.74,200.32,Agriculture
+USA,United States,1991,0,0,155,197.62,Agriculture
+USA,United States,1990,0,0,159.37,196.97,Agriculture
