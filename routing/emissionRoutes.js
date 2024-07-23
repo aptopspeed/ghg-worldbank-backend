@@ -124,38 +124,76 @@ router.get('/sector', async (req, res) => {
 
 router.get('/filter', async (req, res) => {
     try {
-      const { country, gas, year } = req.query;
-  
-      // Validate the inputs
-      if (!country || !gas || !year) {
-        return res.status(400).json({ error: 'Country, gas, and year are required parameters.' });
-      }
-  
-      // Find the country by shortName
-      const countryData = await Country.findOne({ shortName: country });
-  
-      if (!countryData) {
-        return res.status(404).json({ error: 'Country not found.' });
-      }
-  
-      // Build the query object
-      const query = {
-        year: parseInt(year, 10),
-        countryId: countryData._id
-      };
-  
-      // Retrieve the filtered emissions with populated sector details
-      const emissions = await Emission.find(query)
-        .populate('sectorId', 'name sectorName') // Populate sector details
-        .select(`sectorId emissions.${gas} -_id`) // Select sectorId and specific gas emission
-        .exec();
-  
-      res.json(emissions);
+        const { country, gas, year } = req.query;
+
+        // Validate the inputs
+        if (!country || !gas || !year) {
+            return res.status(400).json({ error: 'Country, gas, and year are required parameters.' });
+        }
+
+        // Find the country by shortName
+        const countryData = await Country.findOne({ shortName: country });
+
+        if (!countryData) {
+            return res.status(404).json({ error: 'Country not found.' });
+        }
+
+        // Build the query object
+        const query = {
+            year: parseInt(year, 10),
+            countryId: countryData._id
+        };
+
+        // Retrieve the filtered emissions with populated sector details
+        const emissions = await Emission.find(query)
+            .populate('sectorId', 'name sectorName') // Populate sector details
+            .select(`sectorId emissions.${gas} -_id`) // Select sectorId and specific gas emission
+            .exec();
+
+        res.json(emissions);
     } catch (error) {
-      console.error(error);
-      res.status(500).json({ error: 'An error occurred while fetching emissions data.' });
+        console.error(error);
+        res.status(500).json({ error: 'An error occurred while fetching emissions data.' });
     }
-  });
+});
+
+router.get('/aggregate', async (req, res) => {
+    try {
+        const { country } = req.query;
+
+        // Validate the input
+        if (!country) {
+            return res.status(400).json({ error: 'Country is a required parameter.' });
+        }
+
+        // Find the country by shortName
+        const countryData = await Country.findOne({ shortName: country });
+
+        if (!countryData) {
+            return res.status(404).json({ error: 'Country not found.' });
+        }
+
+        // Aggregate emissions data by year and sum emissions for each gas
+        const aggregatedData = await Emission.aggregate([
+            { $match: { countryId: countryData._id } },
+            {
+                $group: {
+                    _id: '$year',
+                    totalCO2: { $sum: '$emissions.CO2' },
+                    totalFGas: { $sum: '$emissions.FGas' },
+                    totalN2O: { $sum: '$emissions.N2O' },
+                    totalCH4: { $sum: '$emissions.CH4' },
+                },
+            },
+            { $sort: { _id: 1 } }, // Sort by year
+        ]);
+
+        res.json(aggregatedData);
+    } catch (error) {
+        console.error(error);
+        res.status(500).json({ error: 'An error occurred while fetching emissions data.' });
+    }
+});
 
 
 module.exports = router;
