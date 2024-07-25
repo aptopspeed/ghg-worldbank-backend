@@ -1,28 +1,22 @@
 const errorHandler = (err, req, res, next) => {
-    console.error(err.stack); // Log the error stack for debugging purposes
-  
-    // Default status code and message
-    let statusCode = err.statusCode || 500;
-    let message = err.message || 'Internal Server Error';
-  
-    // Customize error messages and status codes based on specific errors
-    if (err.name === 'ValidationError') {
-      statusCode = 400;
-      message = 'Validation Error: ' + err.message;
-    } else if (err.name === 'CastError') {
-      statusCode = 400;
-      message = 'Invalid ID format';
-    } else if (err.code === 11000) {
-      statusCode = 409;
-      message = 'Duplicate key error';
-    }
-  
-    res.status(statusCode).json({
-      status: 'error',
-      statusCode,
-      message
-    });
+  console.error(err.stack);
+
+  const statusCode = err.statusCode || 500;
+  const message = err.message || 'Internal Server Error';
+
+  const response = {
+    success: false,
+    error: message
   };
-  
-  module.exports = errorHandler;
-  
+
+  // Check for a DEBUG flag in .env, defaulting to false if not set
+  const isDebug = process.env.DEBUG === 'true';
+
+  if (isDebug) {
+    response.stack = err.stack;
+  }
+
+  res.status(statusCode).json(response);
+};
+ //It's still created but not use on time with project
+module.exports = errorHandler;

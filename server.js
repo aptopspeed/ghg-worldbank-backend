@@ -15,7 +15,8 @@ app.use("/api/sectors", require("./routing/sectorRoutes"));
 app.use("/api/countries", require("./routing/countryRoutes"));
 app.use("/api/emissions", require("./routing/emissionRoutes"))
 
-app.use(errorHandler);
+// app.use(errorHandler);
+
 
 const PORT = process.env.PORT
 

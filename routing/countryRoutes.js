@@ -7,7 +7,7 @@ router.get("/", async(req, res, next) => {
       const countries = await Country.find();
       res.json(countries);
     } catch (err) {
-      next(err);
+      console.log(err);
     }
   })
 
