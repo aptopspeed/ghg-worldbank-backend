@@ -22,11 +22,15 @@ Before you begin, ensure you have the following installed on your system:
    ```
    npm install
    ```
+3. Download any file from OneDrive Follow this link:
+   <br/>
+   https://1drv.ms/f/s!AuuY42Jd0jKxhrcF_52CEvRkIZIirw?e=YuyCah
+
 
 ## Configuration
-(already exist in repository for temporary you can skip this all step):
 1. Create a `.env` file in the root directory of the project.
-2. Add the following environment variables to the `.env` 
+2. Add the following environment variables to the `.env`
+3. bring text in FileName: `env.txt` from OneDrive copy into your local `.env` file
 ## Running the Server
 
 To start the development server:
@@ -41,8 +45,7 @@ The server will be available at `http://localhost:8081`.
 
 ## API Endpoints
 
-I prepared the postman collection with json file on my OneDrive Cloud Follow this link:
-https://1drv.ms/f/s!AuuY42Jd0jKxhrcF_52CEvRkIZIirw?e=YuyCah
+I prepared the postman collection with json file on my OneDrive Cloud:
 <br/>
 FileName: `GHG-API-Collections.postman_collection.json`
 
